@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h2>CoderMark</h2>
+      <h3>CoderMark</h3>
     </div>
   );
 }
