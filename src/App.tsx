@@ -1,9 +1,6 @@
+import "./App.less";
+import Home from "./Pages/Home";
 function App() {
-  return (
-    <div>
-      <h3>CoderMark</h3>
-    </div>
-  );
+  return <Home />;
 }
-
 export default App;
